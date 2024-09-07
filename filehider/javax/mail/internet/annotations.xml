@@ -1,0 +1,5 @@
+<root>
+    <item name='javax.mail.internet.AddressException'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
